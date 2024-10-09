@@ -5,3 +5,5 @@ Calculus is a branch of mathematics that studies change. It's divided into two m
 - **Integral calculus** is concerned with accumulation, like finding the total area under a curve or the total distance traveled by an object over a period of time. It deals with integrals, which can be thought of as the opposite of derivatives.
 
 Together, these concepts help solve real-world problems in physics, engineering, economics, and other fields by analyzing motion, growth, and change.
+
+## See: [Resources](https://github.com/shnycat/calculus_learn/tree/main/RESOURCES)
