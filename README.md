@@ -6,4 +6,6 @@ Calculus is a branch of mathematics that studies change. It's divided into two m
 
 Together, these concepts help solve real-world problems in physics, engineering, economics, and other fields by analyzing motion, growth, and change.
 
-## See: [Resources](https://github.com/shnycat/calculus_learn/tree/main/RESOURCES)
+### Check Out:
+- [Resources](https://github.com/shnycat/calculus_learn/tree/main/RESOURCES)
+- [Learning Plan](https://github.com/shnycat/calculus_learn/blob/main/00_learning-plan.md)
