@@ -1,3 +1,3 @@
 Hello there!
 
-Learning the basics so you don't hurt later
+Learn the basics so you don't hurt later
